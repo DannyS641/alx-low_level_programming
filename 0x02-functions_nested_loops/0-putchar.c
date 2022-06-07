@@ -1,4 +1,4 @@
-#include <putchar.c>
+#include <0-putchar.c>
 int main(void)
 {
 char *putchar = "Putchar";
