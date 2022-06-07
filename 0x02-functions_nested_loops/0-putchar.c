@@ -1,12 +1,14 @@
-#include <0-putchar.c>
+#include "putchar.h"
 int main(void)
 {
-char *putchar = "Putchar";
-while (*putchar)
-{
-_putchar(*putchar)
-putchar++
-}
+putchar(")
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
 _putchar('\n');
 return (0);
 }
