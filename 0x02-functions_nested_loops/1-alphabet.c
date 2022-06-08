@@ -12,7 +12,8 @@ for (alpha = 'a'; alpha <= 'z'; alpha++)
 _putchar (alpha);
 }
 _putchar('\n');
-}#include <"putchar.h">
+}
+#include <"putchar.h">
 /**
 * print_alphabet - prints the english alphabet from a-z.
 * Return: Nothing.
