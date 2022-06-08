@@ -1,7 +1,7 @@
 #include "main.h"
 int main(void)
 {
-_putchar('');
+_putchar(");
 _putchar('p');
 _putchar('u');
 _putchar('t');
